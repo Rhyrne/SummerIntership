@@ -31,7 +31,7 @@ class BankaHesabi : IBankaHesabi
         Console.WriteLine($"{hesapSahibi} adlı müşterinin banka hesabında {bakiye} TL bulunmakta. İyi günler dileriz!");
     }
 }
-class Program
+class ArayuzOrnek
 {
     static void Main()
     {
