@@ -48,7 +48,7 @@ public class Yigin <jenerikTip>
     }
 }
 
-class Program
+class JenerikYapi
 {
     static void Main()
     {
